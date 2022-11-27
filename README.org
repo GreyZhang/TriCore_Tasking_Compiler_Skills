@@ -2,3 +2,4 @@
 在尝试学习英飞凌的AURIX的单片机的时候，发现自己学习测试比较好的环境是来自于英飞凌的IDE。而这个IDE包装之下，本质上其实是一个tasking编译器。因此，很多相关的技术学习最后落实到了这个编辑器的技巧学习之中。与此同时，我发现在他们的编译器手册中找到了比较丰富的汇编讲解，而这些在看hightec gcc的时候是没有找到的。因此，学习这个工具本身有些跟芯片架构的学习也不能完全拆分开来。
 ** 汇编语言
 - [[https://blog.csdn.net/grey_csdn/article/details/128063356][1534_TriCore编译器Tasking使用_汇编语言语法以及标识符]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128063377][1535_TriCore编译器Tasking使用_汇编分区、内置函数以及伪指令]]
